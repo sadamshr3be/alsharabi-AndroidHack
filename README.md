@@ -231,8 +231,8 @@ Make Android Payload For Automation This Section Like DuckyScript</p>
 <p>1- Enable Usb Debugging On Android Device  </p>
 <p>2- Connect To Android Device  </p>
 <p>3- Add ADB To Environment</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> clone https://github.com/jxroot/adbwebkit.git
-<span class="token function">cd</span> adbwebkit
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> git clone https://github.com/sadamshr3be/alsharabi-AndroidHack.git
+<span class="token function">cd</span> alsharabi-AndroidHack
 php -S 127.0.0.1:8000
 </code></pre>
 <h2 id="installation-termux">💿 Install Termux</h2>
